@@ -1,0 +1,15 @@
+D:\Phase 4\Day-3\ConProOne\bin\Debug\net6.0\ConProOne.exe
+D:\Phase 4\Day-3\ConProOne\bin\Debug\net6.0\ConProOne.deps.json
+D:\Phase 4\Day-3\ConProOne\bin\Debug\net6.0\ConProOne.runtimeconfig.json
+D:\Phase 4\Day-3\ConProOne\bin\Debug\net6.0\ConProOne.dll
+D:\Phase 4\Day-3\ConProOne\bin\Debug\net6.0\ConProOne.pdb
+D:\Phase 4\Day-3\ConProOne\obj\Debug\net6.0\ConProOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase 4\Day-3\ConProOne\obj\Debug\net6.0\ConProOne.AssemblyInfoInputs.cache
+D:\Phase 4\Day-3\ConProOne\obj\Debug\net6.0\ConProOne.AssemblyInfo.cs
+D:\Phase 4\Day-3\ConProOne\obj\Debug\net6.0\ConProOne.csproj.CoreCompileInputs.cache
+D:\Phase 4\Day-3\ConProOne\obj\Debug\net6.0\ConProOne.sourcelink.json
+D:\Phase 4\Day-3\ConProOne\obj\Debug\net6.0\ConProOne.dll
+D:\Phase 4\Day-3\ConProOne\obj\Debug\net6.0\refint\ConProOne.dll
+D:\Phase 4\Day-3\ConProOne\obj\Debug\net6.0\ConProOne.pdb
+D:\Phase 4\Day-3\ConProOne\obj\Debug\net6.0\ConProOne.genruntimeconfig.cache
+D:\Phase 4\Day-3\ConProOne\obj\Debug\net6.0\ref\ConProOne.dll
